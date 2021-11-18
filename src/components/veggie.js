@@ -8,11 +8,11 @@ function Veggie() {
       <div className="card">
         <img src={ veggie } class="card-img-top" alt="..."/>
         <div className="card-body">
-          <h5 className="card-title">Plain Slice</h5>
-          <p className="card-text">It's got cheese, it's got tomato sauce, and it's only  a dollar. What more could you ask for?</p>
+          <h5 className="card-title">Veggie Slice</h5>
+          <p className="card-text">On a diet and still wanna enjoy eating Pizza.Buy our dollar veggie pizza's.</p>
         </div>
         <ul className="list-group list-group-flush">
-          <li className="list-group-item">Price: $3.00</li>
+          <li className="list-group-item">Price: $1.00</li>
         </ul>
       </div>
     </div>

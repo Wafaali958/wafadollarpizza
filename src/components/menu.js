@@ -15,6 +15,7 @@ function Menu() {
         <Pepperoni/>
         <MeatLover/>
         <Veggie/>
+
       </div>
     </div>
   );
